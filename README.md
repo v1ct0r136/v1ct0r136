@@ -1,6 +1,6 @@
 ## Hi there. Victor Valencia Here!! 👋
 
-**v1ct0r136/v1ct0r136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador apasionado por la programación web y robotica.
 
 Here are some ideas to get you started:
 
@@ -8,9 +8,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 Skills ...
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
 
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=v1ct0r136&show_icons=true&theme=radical)
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=v1ct0r136&layout=compact&theme=radical)
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
