@@ -19,8 +19,8 @@ I'm passionate about technology and I'm constantly learning. My goal is to becom
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v1ct0r136&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ct0r136&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=v1ct0r136&show_icons=true&theme=white">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ct0r136&layout=compact&theme=white">
 </p>
 
 ## 📫 Contact with me
